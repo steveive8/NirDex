@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.ac729f4f.chunk.js",
-    "main.js.map": "/static/js/main.ac729f4f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a16b5714.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a16b5714.js.map",
-    "static/js/2.de5ac66a.chunk.js": "/static/js/2.de5ac66a.chunk.js",
-    "static/js/2.de5ac66a.chunk.js.map": "/static/js/2.de5ac66a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.de5ac66a.chunk.js.LICENSE.txt": "/static/js/2.de5ac66a.chunk.js.LICENSE.txt",
-    "static/media/bitcoin.7a4072aa.png": "/static/media/bitcoin.7a4072aa.png",
-    "static/media/depthchain.808cbe12.png": "/static/media/depthchain.808cbe12.png",
-    "static/media/dogecoin.8b6760c3.svg": "/static/media/dogecoin.8b6760c3.svg",
-    "static/media/ethereum.6245256a.png": "/static/media/ethereum.6245256a.png",
-    "static/media/logo.656a8c9a.png": "/static/media/logo.656a8c9a.png",
-    "static/media/xrp.a5083b82.png": "/static/media/xrp.a5083b82.png"
+    "main.js": "/NirDex/static/js/main.ac729f4f.chunk.js",
+    "main.js.map": "/NirDex/static/js/main.ac729f4f.chunk.js.map",
+    "runtime-main.js": "/NirDex/static/js/runtime-main.8903aadb.js",
+    "runtime-main.js.map": "/NirDex/static/js/runtime-main.8903aadb.js.map",
+    "static/js/2.4b00666c.chunk.js": "/NirDex/static/js/2.4b00666c.chunk.js",
+    "static/js/2.4b00666c.chunk.js.map": "/NirDex/static/js/2.4b00666c.chunk.js.map",
+    "index.html": "/NirDex/index.html",
+    "static/js/2.4b00666c.chunk.js.LICENSE.txt": "/NirDex/static/js/2.4b00666c.chunk.js.LICENSE.txt",
+    "static/media/bitcoin.7a4072aa.png": "/NirDex/static/media/bitcoin.7a4072aa.png",
+    "static/media/depthchain.808cbe12.png": "/NirDex/static/media/depthchain.808cbe12.png",
+    "static/media/dogecoin.8b6760c3.svg": "/NirDex/static/media/dogecoin.8b6760c3.svg",
+    "static/media/ethereum.6245256a.png": "/NirDex/static/media/ethereum.6245256a.png",
+    "static/media/logo.656a8c9a.png": "/NirDex/static/media/logo.656a8c9a.png",
+    "static/media/xrp.a5083b82.png": "/NirDex/static/media/xrp.a5083b82.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a16b5714.js",
-    "static/js/2.de5ac66a.chunk.js",
+    "static/js/runtime-main.8903aadb.js",
+    "static/js/2.4b00666c.chunk.js",
     "static/js/main.ac729f4f.chunk.js"
   ]
 }
