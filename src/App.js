@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Trade from './components/trade';
+import GlobalStyles from './styles/GlobalStyle';
+import Header from './components/header'
 
-function App() {
+export const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <>
+      <GlobalStyles />
+      <div>
+        <Header />
+        <div style={{paddingTop: 80, height: '100vh', width: '100vw'}}>
+          <Trade />
+        </div>
+      </div>
+    </>
+  )
+};
 
 export default App;
