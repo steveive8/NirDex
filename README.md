@@ -1,2 +1,2 @@
 # NirDex
-Decentralized Exchange, with Ethereum solidity. Nirvana DEX Engine
+Decentralized Exchange, powered by Nirvana DEX Engine based on Ethereum solidity.
