@@ -138,7 +138,7 @@ class CandleStickChartWithDarkTheme extends React.Component {
 					<CandlestickSeries
 						stroke={d => d.close > d.open ? "#00F9FF" : "#FF0500"}
 						wickStroke={d => d.close > d.open ? "#00F9FF" : "#FF0500"}
-						fill={d => d.close > d.open ? "#00F9FF" : "#FF0500"} />//6BA583 // DB0000
+						fill={d => d.close > d.open ? "#00F9FF" : "#FF0500"} />
 
 					{/* <LineSeries yAccessor={ema20.accessor()} stroke={ema20.stroke()}/>
 					<LineSeries yAccessor={ema50.accessor()} stroke={ema50.stroke()}/> */}
@@ -251,6 +251,8 @@ CandleStickChartWithDarkTheme.defaultProps = {
 CandleStickChartWithDarkTheme = fitWidth(CandleStickChartWithDarkTheme);
 
 export default CandleStickChartWithDarkTheme;
+
+//6BA583 // DB0000
 
 /*
 
